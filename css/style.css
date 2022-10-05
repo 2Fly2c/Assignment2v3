@@ -1,0 +1,51 @@
+
+
+body {
+background-color:  #E6FCFC;   
+color:#302005;
+font-family: Verdana, sans-serif;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+
+img {
+width: 512px;
+display: block;
+float: right;
+margin: 8px;
+border: 5px solid #555;
+}
+
+table {
+border:0.5px solid black;
+background-color: #eeffee;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+text-align: center;
+}
+p{
+	text-align: justify;
+}
+th, td {
+border:0.5px solid black;
+}
+
+
+figcaption {
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+  }
+  
+h1	{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+  ul {
+	padding-left: 20px;
+	font-weight: bold;
+  }
